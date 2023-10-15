@@ -1,4 +1,4 @@
-# Slac APIとGoogle Apps Scriptを使って勤怠チェックを自動化する
+# SlacK APIとGoogle Apps Scriptを使って勤怠チェックを自動化する
 
 Qiitaの[こちら](https://qiita.com/tmryr/items/45dafc71d951553523fb)の記事に詳細記載してあります。
 
